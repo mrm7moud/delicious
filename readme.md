@@ -1,6 +1,23 @@
-## What is this?
+## How to Start
 
-Just you wait folks!
+```bash
+npm install
+```
+
+Rename the file 'variables.env.sample' to 'variables.env'
+
+**GET YOUR OWN API Keys, MLAB account, MailTrap Account**
+
+If you don't understand any of that, then go to www.learnode.com and get the course.
+The best course you can find on node.
+
+After you have setup the variables properly
+
+```bash
+npm start
+```
+
+Should start the project.
 
 ## Sample Data
 
